@@ -1,4 +1,4 @@
-# 
+# MoneyWiz helps you manage your money, track expenses, and plan for the future with easy-to-use budgeting tools.
 
 
 
